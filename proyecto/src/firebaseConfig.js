@@ -6,7 +6,7 @@ const firebaseConfig = {
   apiKey: "AIzaSyCvtyiJ69nR6hsFciRul67-yFlvK23Qcxo",
   authDomain: "yu-gi-oh-cardsapi.firebaseapp.com",
   projectId: "yu-gi-oh-cardsapi",
-  storageBucket: "yu-gi-oh-cardsapi.firebasestorage.app",
+  storageBucket: "yu-gi-oh-cardsapi.firebasestorage.app.com",
   messagingSenderId: "172854177338",
   appId: "1:172854177338:web:9a198b69e0f5e67081cf03"
 };
